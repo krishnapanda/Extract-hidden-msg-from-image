@@ -3,4 +3,4 @@ first you create a indexhtml file and stylecss and indexjs file then write the c
 
 In steganography.min.js file you  can download the stable version from this link ( https://www.peter-eigenschink.at/projects/steganographyjs/) and attach to your steganography.min.js file.
 In the steganography.min.js file i wrote my own stable version but  you can download and use your  link.
-This projec i use LSB method using stegnaography.
+In this project i used LSB method using stegnaography.
